@@ -1,5 +1,5 @@
 export default {
-    owner: ["212600000000"],
+    owner: ["21262547341"],
     prefix: ".",
     botName: "✦🔥 KABANE BOT 🔥✦",
     packname: "KABANE",
