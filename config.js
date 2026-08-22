@@ -6,8 +6,8 @@ export default {
     author: "KABANE BOT",
     sessionName: "session",
     limit: {
-        default: 25,
-        premium: 100,
+        default: 50,
+        premium: Infinity,
         owner: Infinity
     },
     cooldowns: {
